@@ -16,7 +16,7 @@ public class NewSwitch {
         switchExpWithYield(100);
     }
 
-    public static void switchStatement(int n) {
+    private static void switchStatement(int n) {
         switch (n) {
             case 1 -> System.out.println("one");
             case 2 -> System.out.println("two");
@@ -24,7 +24,7 @@ public class NewSwitch {
         }
     }
 
-    public static void switchExpression(int n) {
+    private static void switchExpression(int n) {
         String value = switch (n) {
             case 1 -> "one";
             case 2 -> "two";
@@ -33,7 +33,7 @@ public class NewSwitch {
         System.out.println(value);
     }
 
-    public static void switchExpWithYield(int n) {
+    private static void switchExpWithYield(int n) {
         int j = switch (n) {
             case 0, 1 -> 0;
             case 2, 3, 4 -> 1;

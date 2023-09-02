@@ -19,6 +19,6 @@ record Point(int x, int y) {
 record Range(int lo, int hi) {
     Range {
         if (lo > hi)  // referring here to the implicit constructor parameters
-            throw new IllegalArgumentException(String.format("(%d,%d)", lo, hi));
+            throw new IllegalArgumentException(String.format("(%d, %d)", lo, hi));
     }
 }
