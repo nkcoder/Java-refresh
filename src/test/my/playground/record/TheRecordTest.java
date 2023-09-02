@@ -18,8 +18,8 @@ public class TheRecordTest {
     @Test
     public void rangeIsAlsoARecord() {
         Range r1 = new Range(1, 5);
-        assertEquals(r1.lo(), 1);
-        assertEquals(r1.hi(), 5);
+        assertEquals(1, r1.lo());
+        assertEquals(5, r1.hi());
 
         assertThrows(IllegalArgumentException.class, () -> new Range(5, 1));
     }
