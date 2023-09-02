@@ -1,4 +1,4 @@
-package main.newoptionalmethods;
+package newoptionalmethods;
 
 import java.util.List;
 import java.util.Optional;

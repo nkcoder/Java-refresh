@@ -1,4 +1,4 @@
-package main.textblocks;
+package textblocks;
 
 public class TextBlocks {
     public static void main(String[] args) {

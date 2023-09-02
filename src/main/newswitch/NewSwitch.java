@@ -1,4 +1,4 @@
-package main.newswitch;
+package newswitch;
 
 import java.util.Random;
 

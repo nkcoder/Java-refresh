@@ -1,4 +1,4 @@
-package main.localtypereference;
+package localtypereference;
 
 import java.util.Arrays;
 

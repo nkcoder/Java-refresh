@@ -1,4 +1,4 @@
-package main.sealed;
+package sealed;
 
 public final class FilledRectangle extends Rectangle {
 }

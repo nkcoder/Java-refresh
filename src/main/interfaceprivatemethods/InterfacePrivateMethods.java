@@ -1,4 +1,4 @@
-package main.interfaceprivatemethods;
+package interfaceprivatemethods;
 
 public class InterfacePrivateMethods implements Animal {
     public static void main(String[] args) {

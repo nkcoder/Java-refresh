@@ -1,4 +1,4 @@
-package main.newinstanceof;
+package newinstanceof;
 
 public class CaseInsensitiveString {
     private final String s;
