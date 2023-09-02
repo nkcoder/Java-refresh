@@ -29,4 +29,6 @@ bin/
 .DS_Store
 
 .idea/
-Java-refresh.iml
+*.iml
+build
+.gradle

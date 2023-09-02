@@ -1,4 +1,4 @@
-package newstringmethods;
+package my.playground.newstringmethods;
 
 public class NewStringMethods {
     public static void main(String[] args) {

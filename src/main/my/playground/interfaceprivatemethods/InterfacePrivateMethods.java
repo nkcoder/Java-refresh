@@ -1,4 +1,4 @@
-package interfaceprivatemethods;
+package my.playground.interfaceprivatemethods;
 
 public class InterfacePrivateMethods implements Animal {
     public static void main(String[] args) {

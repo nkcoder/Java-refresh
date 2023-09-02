@@ -1,4 +1,4 @@
-package newswitch;
+package my.playground.newswitch;
 
 import java.util.Random;
 

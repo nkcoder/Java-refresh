@@ -1,0 +1,26 @@
+plugins {
+    id 'java'
+}
+
+group 'my.playground'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+sourceSets {
+    main {
+        java {
+            srcDirs = ['src/main']
+        }
+    }
+}
+dependencies {
+    testImplementation 'org.junit.jupiter:junit-jupiter:5.9.3'
+    implementation 'com.google.guava:guava:32.1.1-jre'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}

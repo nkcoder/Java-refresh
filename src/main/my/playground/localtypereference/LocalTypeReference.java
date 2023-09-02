@@ -1,4 +1,4 @@
-package localtypereference;
+package my.playground.localtypereference;
 
 import java.util.Arrays;
 
