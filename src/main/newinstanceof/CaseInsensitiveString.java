@@ -1,4 +1,4 @@
-package newinstanceof;
+package main.newinstanceof;
 
 public class CaseInsensitiveString {
     private final String s;
@@ -13,9 +13,6 @@ public class CaseInsensitiveString {
     }
 
     public final boolean equalsImproved(Object o) {
-        CaseInsensitiveString cis2 = new CaseInsensitiveString("hello");
-        System.out.println(cis2.s);
-
         return (o instanceof CaseInsensitiveString cis) && cis.s.equalsIgnoreCase(s);
     }
 }

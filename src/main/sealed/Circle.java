@@ -1,4 +1,4 @@
-package sealed;
+package main.sealed;
 
 public final class Circle extends Shape {
 }

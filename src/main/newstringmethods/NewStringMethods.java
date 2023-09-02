@@ -1,4 +1,4 @@
-package newstringmethods;
+package main.newstringmethods;
 
 public class NewStringMethods {
     public static void main(String[] args) {

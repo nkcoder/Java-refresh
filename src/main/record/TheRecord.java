@@ -1,4 +1,4 @@
-package record;
+package main.record;
 
 public class TheRecord {
     public static void main(String[] args) {

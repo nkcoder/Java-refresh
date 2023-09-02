@@ -1,4 +1,4 @@
-package collectionfactorymethods;
+package main.collectionfactorymethods;
 
 import java.util.List;
 import java.util.Map;
