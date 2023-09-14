@@ -38,9 +38,10 @@ public class NewSwitch {
             case 0, 1 -> 0;
             case 2, 3, 4 -> 1;
             default -> {
-                int result = new Random().nextInt();
-                yield result;
+              int x = new Random().nextInt();     // just demo
+              yield x;
             }
         };
+        System.out.println(j);
     }
 }

@@ -1,8 +1,12 @@
-package my.playground.localtypereference;
+package my.playground.localtypeinference;
 
 import java.util.Arrays;
 
-public class LocalTypeReference {
+
+/**
+ * Introduced in Java 10, only `var` is supported.
+ */
+public class LocalTypeInference {
     public static void main(String[] args) {
         var list = Arrays.asList("A", "B", "C");   // infers ArrayList<String>
         var stream = list.stream();     // infers Stream<String>
