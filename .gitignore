@@ -32,4 +32,4 @@ bin/
 *.iml
 build
 .gradle
-*.txt
+data/

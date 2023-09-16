@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 
 /**
- * Introduced in Java 10, only `var` is supported.
+ * Introduced in Java 10, only `var` is supported and only for local variables.
  */
 public class LocalTypeInference {
     public static void main(String[] args) {
