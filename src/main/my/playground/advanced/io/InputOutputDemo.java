@@ -2,7 +2,7 @@ package my.playground.advanced.io;
 
 import java.io.*;
 
-public class InputOutputTest {
+public class InputOutputDemo {
   private static final String SOURCE = "source.txt";
   private static final String DEST = "dest.txt";
 

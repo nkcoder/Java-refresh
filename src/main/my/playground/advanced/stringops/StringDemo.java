@@ -1,8 +1,6 @@
 package my.playground.advanced.stringops;
 
-import java.util.Arrays;
-
-public class StringTest {
+public class StringDemo {
 
   public static void main(String[] args) {
     String question = "What's the date today? ";

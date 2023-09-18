@@ -60,7 +60,7 @@ import java.nio.channels.FileChannel;
  *
  * Ref: <a href="https://jenkov.com/tutorials/java-nio/buffers.html">Java NIO<a/>
  */
-public class BufferTest {
+public class BufferDemo {
 
   public static void main(String[] args) {
     readFromFile();

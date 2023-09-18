@@ -14,14 +14,14 @@ import java.util.Date;
  *
  * It's easy to change the implementation of the dependencies, and write test cases for it.
  */
-public class DependencyInjectionTest {
+public class DependencyInjectionDemo {
 
   private final DateFormat dateFormat;
 
   /**
    * It's easy to change DateFormat and write tests for the DependencyInjectionTest.
    */
-  public DependencyInjectionTest(final DateFormat dateFormat) {
+  public DependencyInjectionDemo(final DateFormat dateFormat) {
     this.dateFormat = dateFormat;
   }
 

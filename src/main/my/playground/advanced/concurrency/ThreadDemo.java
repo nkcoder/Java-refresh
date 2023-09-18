@@ -1,6 +1,6 @@
 package my.playground.advanced.concurrency;
 
-public class ThreadTest {
+public class ThreadDemo {
   public static void main(String[] args) {
     MathUtil mathUtil = new MathUtil();
     Thread t1 = new ThreadByExtend(mathUtil);

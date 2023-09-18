@@ -1,6 +1,6 @@
 package my.playground.advanced.autoboxing;
 
-public class BoxingTest {
+public class AutoBoxingDemo {
   public static void main(String[] args) {
     double d = 10.5;
     Double dd = d;

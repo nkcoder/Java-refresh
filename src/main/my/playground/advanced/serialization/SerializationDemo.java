@@ -2,7 +2,7 @@ package my.playground.advanced.serialization;
 
 import java.io.*;
 
-public class SerializationTest {
+public class SerializationDemo {
   public static void main(String[] args) {
     User user = new User("Daniel", 20, "Male");
     String userFile = "./user.txt";

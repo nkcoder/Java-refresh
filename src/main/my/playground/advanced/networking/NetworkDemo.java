@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.net.InetAddress;
 import java.util.Arrays;
 
-public class NetworkTest {
+public class NetworkDemo {
 
   public static void main(String[] args) {
     try {
