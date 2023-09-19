@@ -1,4 +1,4 @@
-package my.playground.advanced.objectmethods;
+package my.playground.advanced.object;
 
 import java.util.Optional;
 
@@ -17,10 +17,20 @@ public class EqualsAndHashCodeDemo {
     Person p2 = new Person("Kate", "Green", "kg@test.com");
 
     assert !p1.equals(p2);
+
+    // for non-primitive types, == operator returns true only if both references point to the same object, and false otherwise.
+    String city = "Canberra";
+    System.out.println("using ==: " + (city == "CanberraA")); //  false
+    System.out.println("using ==: " + (city == city));    // true
+    System.out.println("using equals: " + city.equals("Canberra")); // true
   }
 
 }
 
+/**
+ * Actually it can be a record introduced in Java 14. <br>
+ * {@link my.playground.afterjava8.record.RecordDemo}
+ */
 class Person {
 
   private final String firstName;
