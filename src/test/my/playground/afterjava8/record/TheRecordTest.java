@@ -1,4 +1,4 @@
-package my.playground.record;
+package my.playground.afterjava8.record;
 
 import my.playground.afterjava8.record.Point;
 import my.playground.afterjava8.record.Range;

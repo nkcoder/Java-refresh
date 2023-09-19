@@ -1,6 +1,6 @@
 package my.playground.afterjava8.record;
 
-public class TheRecord {
+public class RecordDemo {
     public static void main(String[] args) {
         Point p = new Point(10, 20);
         System.out.println(p.square());
