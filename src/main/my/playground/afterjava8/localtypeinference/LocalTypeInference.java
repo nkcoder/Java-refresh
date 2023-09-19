@@ -1,4 +1,4 @@
-package my.playground.localtypeinference;
+package my.playground.afterjava8.localtypeinference;
 
 import java.util.Arrays;
 

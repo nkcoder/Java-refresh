@@ -1,5 +1,7 @@
 package my.playground.record;
 
+import my.playground.afterjava8.record.Point;
+import my.playground.afterjava8.record.Range;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;

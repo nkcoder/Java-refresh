@@ -1,4 +1,4 @@
-package my.playground.collectionfactorymethods;
+package my.playground.afterjava8.collectionfactorymethods;
 
 import java.util.List;
 import java.util.Map;

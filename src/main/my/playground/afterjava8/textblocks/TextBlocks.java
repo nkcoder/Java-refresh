@@ -1,4 +1,4 @@
-package my.playground.textblocks;
+package my.playground.afterjava8.textblocks;
 
 public class TextBlocks {
     public static void main(String[] args) {

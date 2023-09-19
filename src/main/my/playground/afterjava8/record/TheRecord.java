@@ -1,4 +1,4 @@
-package my.playground.record;
+package my.playground.afterjava8.record;
 
 public class TheRecord {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package my.playground.newinstanceof;
+package my.playground.afterjava8.newinstanceof;
 
 public class CaseInsensitiveString {
     private final String s;

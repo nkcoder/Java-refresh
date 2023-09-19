@@ -1,4 +1,4 @@
-package my.playground.newswitch;
+package my.playground.afterjava8.newswitch;
 
 import java.util.Random;
 
@@ -24,6 +24,9 @@ public class NewSwitch {
         }
     }
 
+    /**
+     * Capture the return value of `switch` statement
+     */
     private static void switchExpression(int n) {
         String value = switch (n) {
             case 1 -> "one";
@@ -33,6 +36,9 @@ public class NewSwitch {
         System.out.println(value);
     }
 
+    /**
+     * Return value with `yield`
+     */
     private static void switchExpWithYield(int n) {
         int j = switch (n) {
             case 0, 1 -> 0;

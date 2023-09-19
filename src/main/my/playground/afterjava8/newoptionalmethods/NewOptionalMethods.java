@@ -1,4 +1,4 @@
-package my.playground.newoptionalmethods;
+package my.playground.afterjava8.newoptionalmethods;
 
 import java.util.List;
 import java.util.Optional;

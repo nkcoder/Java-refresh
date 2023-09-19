@@ -1,5 +1,6 @@
 package my.playground.newinstanceof;
 
+import my.playground.afterjava8.newinstanceof.CaseInsensitiveString;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
