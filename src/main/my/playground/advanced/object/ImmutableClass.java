@@ -1,4 +1,4 @@
-package my.playground.advanced.design;
+package my.playground.advanced.object;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package my.playground.advanced.design;
+package my.playground.advanced.object;
 
 /**
  * 1. Every declaration in interface are `public`, which is enforced by the compiler.

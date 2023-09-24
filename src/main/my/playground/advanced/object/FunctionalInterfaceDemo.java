@@ -1,4 +1,4 @@
-package my.playground.advanced.design;
+package my.playground.advanced.object;
 
 /**
  * Functional interface: is the interface with only one abstract method declared in it.

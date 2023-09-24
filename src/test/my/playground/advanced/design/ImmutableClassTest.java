@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 
 import java.util.Arrays;
 import java.util.List;
+import my.playground.advanced.object.ImmutableClass;
 import org.junit.jupiter.api.Test;
 
 public class ImmutableClassTest {

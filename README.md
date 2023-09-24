@@ -21,3 +21,7 @@ Refreshing my knowledge of Java so that I'm not falling behind.
 - IO
 - NIO
 - Serialization/Deserialization
+
+### References
+
+- [Effective Java (3rd Edition)](https://www.amazon.com.au/Effective-Java-Joshua-Bloch/dp/0134685997).
