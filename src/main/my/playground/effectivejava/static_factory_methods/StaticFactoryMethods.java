@@ -1,8 +1,8 @@
-package my.playground.advanced.object.creation;
+package my.playground.effectivejava.static_factory_methods;
 
-import static my.playground.advanced.object.creation.StaticFactoryMethods.City.Brisbane;
-import static my.playground.advanced.object.creation.StaticFactoryMethods.City.Melbourne;
-import static my.playground.advanced.object.creation.StaticFactoryMethods.City.Sydney;
+import static my.playground.effectivejava.static_factory_methods.StaticFactoryMethods.City.Brisbane;
+import static my.playground.effectivejava.static_factory_methods.StaticFactoryMethods.City.Melbourne;
+import static my.playground.effectivejava.static_factory_methods.StaticFactoryMethods.City.Sydney;
 
 import java.io.BufferedReader;
 import java.io.IOException;
